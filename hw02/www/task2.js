@@ -1,6 +1,6 @@
 (function () {
   "use strict";
-  
+
   function init() {
     var alertButton = document.getElementById("alert");
     alertButton.addEventListener("click", popup);
